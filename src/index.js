@@ -1,1 +1,3 @@
-import './grid-system/index.scss';
+// import 'bootstrap';
+
+import './grid-system';
